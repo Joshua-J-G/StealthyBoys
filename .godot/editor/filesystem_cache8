@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1700622679
+::res://data/::1700618887
+sky.exr::CompressedTexture2D::2762221558462070139::1700618730::1700618736::1::::<><>::
+::res://data/player/::1700624170
+player.gd::GDScript::-1::1700618730::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::6334784932221143317::1700624170::0::1::::<><>::res://data/player/player.gd
+::res://data/scripts/::1700618730
+world.gd::GDScript::-1::1700618730::0::1::::<>Node3D<>::
+::res://Models/::1700619658
+::res://Models/Camera/::1700619691
+camera.obj::Mesh::4631257524317047637::1700619678::1700619691::1::::<><>::
+CameraLens.png::CompressedTexture2D::3832732958330413229::1700619686::1700619691::1::::<><>::
+::res://scenes/::1700624170
+Area3D.cs::CSharpScript::-1::1700623813::0::1::::<><>::
+world.tscn::PackedScene::8635667009818232167::1700624170::0::1::::<><>::uid://cwiu8nsyij4gn::::res://data/player/player.tscn<>res://data/scripts/world.gd<>uid://bfmbndv1sge56::::res://data/sky.exr<>uid://b68oet22e4fsv::::res://Models/Camera/camera.obj<>res://scenes/Area3D.cs

@@ -1,0 +1,5 @@
+res://scenes/world.tscn
+res://data/player/player.tscn
+res://scenes/Area3D.cs
+res://data/Camera/cammera.tscn
+res://scenes/node_2d.tscn

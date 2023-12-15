@@ -1,0 +1,17 @@
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\bin\Debug\first person controller.deps.json
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\bin\Debug\first person controller.runtimeconfig.json
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\bin\Debug\first person controller.dll
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\bin\Debug\first person controller.pdb
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.csproj.AssemblyReference.cache
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.AssemblyInfoInputs.cache
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.AssemblyInfo.cs
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.csproj.CoreCompileInputs.cache
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.csproj.CopyComplete
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.dll
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\refint\first person controller.dll
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.pdb
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\first person controller.genruntimeconfig.cache
+C:\Users\1029666\Documents\StealthyBoys\.godot\mono\temp\obj\Debug\ref\first person controller.dll

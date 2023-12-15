@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://b86fictny13jx"]
+
+[ext_resource type="Script" path="res://scenes/Button.cs" id="1_hfcsb"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+offset_left = 188.0
+offset_top = 288.0
+offset_right = 890.0
+offset_bottom = 460.0
+text = "AHHH ALL I FEEL IS PAIN
+"
+script = ExtResource("1_hfcsb")
